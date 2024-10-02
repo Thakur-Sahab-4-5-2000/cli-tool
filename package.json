@@ -1,11 +1,11 @@
 {
   "name": "create-node-app-by-shubbu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "cli tool for creating nodejs app",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "shubbu-create-my-app": "./index.js"
+    "create-node-app-by-shubbu": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
