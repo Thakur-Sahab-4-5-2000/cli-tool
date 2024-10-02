@@ -1,0 +1,29 @@
+{
+  "name": "create-node-app-by-shubbu",
+  "version": "1.0.3",
+  "description": "cli tool for creating nodejs app",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "shubbu-create-my-app": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "interactive",
+    "cli",
+    "tool",
+    "for",
+    "creating",
+    "nodejs",
+    "app"
+  ],
+  "author": "Shubham Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "inquirer": "^11.1.0"
+  }
+} 
